@@ -5,7 +5,7 @@
 Мои текущие интересы лежат в области ML и NLP. Я планирую жить, развиваться и работать на территории РФ, поэтому пишу здесь на русском языке.</br>
 
 ### Мои репозитории:<br>
-[Учебные проекты МФТИ / Skillfactory](https://github.com/Vendor62/MIPT_practice)<br>
+[Учебные проекты МФТИ](https://github.com/Vendor62/MIPT_practice)<br>
 Здесь моя практика на Python в рамках магистратуры МФТИ.
 
 [Учебные проекты Яндекс Практикум](https://github.com/Vendor62/Training-projects-DA)<br>
