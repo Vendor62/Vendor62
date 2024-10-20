@@ -5,6 +5,9 @@
 Мои текущие интересы лежат в области ML и NLP. Я планирую жить, развиваться и работать на территории РФ, поэтому пишу здесь на русском языке.</br>
 
 ### Мои репозитории:<br>
+[PET проекты](https://github.com/Vendor62/PET-project)<br>
+Здесь цельные проекты, которые я выполняю для развития или реализации своих идей.
+
 [Учебные проекты МФТИ](https://github.com/Vendor62/MIPT_practice)<br>
 Здесь моя практика на Python в рамках магистратуры МФТИ.
 
@@ -16,18 +19,3 @@
 
 [Датасеты с Kaggle](https://github.com/Vendor62/Kaggle-Datasets)<br>
 Здесь я иногда работаю над датасетами с kaggle.com.
-
-<!--
-**Vendor62/Vendor62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
