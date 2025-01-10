@@ -8,6 +8,9 @@
 [PET проекты](https://github.com/Vendor62/PET-project)<br>
 Здесь цельные проекты, которые я выполняю для развития или реализации своих идей.
 
+[Техсобесы](https://github.com/Vendor62/tech_interview)<br>
+Задачи с техсобеседований в различных компаниях.
+
 [Учебные проекты МФТИ](https://github.com/Vendor62/MIPT_practice)<br>
 Здесь моя практика на Python в рамках магистратуры МФТИ.
 
